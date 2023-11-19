@@ -1,0 +1,5 @@
+﻿Compilação iniciada...
+1>------ Compilação iniciada: Projeto: gerenciador_produtos, Configuração: Debug Any CPU ------
+1>  gerenciador_produtos -> C:\Curso C#\gerenciamento\gerenciador_produtos\bin\Debug\gerenciador_produtos.exe
+========== Compilação: 1 bem-sucedida, 0 com falha, 0 atualizada, 0 ignorada ==========
+========== Compilação começou em 23:46 e levou 00,580 segundos ==========
